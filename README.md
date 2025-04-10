@@ -1,3 +1,5 @@
+# Main Repository:
+Visit the main repostiory <a href="https://github.com/prathamshetty-10/IECSE-CODE-BOOTCAMP-2024-2025">over here</a>.
 # Stack Fundamentals
 A stack is a linear data structure following Last In First Out (LIFO) principles. Elements are added/removed from one end (top). Analogy: A stack of plates.
 
